@@ -193,11 +193,3 @@ Example:  EXEC input.txt;
 * Foreign Keys
 * Views
 * Complex Select
-
-## Design & Implementation
-
-See [wiki](https://github.com/halfvim/MiniDB/wiki/Design-&-Implementation).
-
-## Test Runs
-
-See [wiki](https://github.com/halfvim/MiniDB/wiki/Test-Run).
